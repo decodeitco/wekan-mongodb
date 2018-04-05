@@ -112,8 +112,8 @@ services:
       #   For SSL in email, change smtp:// to smtps://
       # NOTE: Special characters need to be url-encoded in MAIL_URL.
       #---------------------------------------------------------------
-      - MAIL_URL=smtp://user:pass@mailserver.example.com:25/
-      - MAIL_FROM='Example Wekan Support <support@example.com>'
+      - MAIL_URL=smtp://soporte@decodeit.co:t3T6OLYavF@smtp-relay.gmail.com:25/
+      - MAIL_FROM='Support DECODE <support@decodeit.co>'
     depends_on:
       - wekandb
 
