@@ -75,7 +75,7 @@ services:
       #   http://example.com/wekan
       #   http://192.168.1.100
       #---------------------------------------------------------------
-      - ROOT_URL=http://dkanbas.decodeit.co
+      - ROOT_URL=https://dkanbas.decodeit.co
       #---------------------------------------------------------------
       # == PORT SETTING ==
       # Not needed on Docker, but if you had installed from source,
